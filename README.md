@@ -9,4 +9,4 @@ This project is a **Microsoft Homepage Clone** that replicates the clean and mod
 
 ## Demo
 
-![Microsoft Homepage Clone Image](https://github.com/BGWEB08/README.md-IMAGES/blob/main/Web%20Design/Microsoft%20Homepage%20Clone/microsoft-homepage-clone-img.png?raw=true)
+![Microsoft Homepage Clone Image](https://github.com/BGWEB08/README.md-IMAGES/blob/main/React%20Trials/Microsoft%20Homepage%20Clone/microsofthomepageclone-img.png?raw=true)
