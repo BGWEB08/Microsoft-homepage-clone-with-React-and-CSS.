@@ -1,0 +1,21 @@
+.sliders {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-direction: column;
+  text-align: center;
+  width: 100%;
+  height: 400px;
+  padding-bottom: 50px;
+  margin-bottom: 20px;
+  background: url("img/slider/slider.png") no-repeat center center/cover;
+}
+
+.sliders h2,
+.sliders p {
+    margin-bottom: 10px;
+}
+
+.sliders .btn {
+    margin-top: 20px;
+}
